@@ -1,0 +1,13 @@
+.welcome {
+  width: 800px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  background-color: aquamarine;
+
+  padding: var(--gap-xl);
+  background: var(--color-light-bg-primary);
+  box-shadow: var(--shadow-xs-hard);
+  border-radius: var(--border-radius-m);
+  overflow: auto;
+}
